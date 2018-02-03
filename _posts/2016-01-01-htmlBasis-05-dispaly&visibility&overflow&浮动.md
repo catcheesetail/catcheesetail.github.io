@@ -1,3 +1,14 @@
+---
+layout:     post
+title:      定时器 你真的会使用吗？
+subtitle:   iOS定时器详解
+date:       2016-12-13
+author:     BY
+header-img: img/post-bg-ios9-web.jpg
+catalog: 	 true
+tags:
+    - Html
+---
 ## display
 ##### 内联元素不支持内容区宽高的设置，为了能设置内联元素可见框的大小，可将内联元素转换为块元素显示------display
 ##### display可设置元素的类型
