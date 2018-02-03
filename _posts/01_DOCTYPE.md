@@ -1,3 +1,15 @@
+---
+layout:     post
+title:      定时器 你真的会使用吗？
+subtitle:   iOS定时器详解
+date:       2016-12-13
+author:     BY
+header-img: img/post-bg-ios9-web.jpg
+catalog: 	 true
+tags:
+    - H5
+    - 定时器
+---
 ###H5
 	1.DOCTYPE和浏览器渲染模式
 		DOCTYPE，或者称为 Document Type Declaration（文档类型声明，缩写 DTD）

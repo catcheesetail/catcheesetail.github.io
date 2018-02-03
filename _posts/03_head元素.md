@@ -1,3 +1,15 @@
+---
+layout:     post
+title:      定时器 你真的会使用吗？
+subtitle:   iOS定时器详解
+date:       2016-12-13
+author:     BY
+header-img: img/post-bg-ios9-web.jpg
+catalog: 	 true
+tags:
+    - H5
+    - 定时器
+---
 ###head元素
 	MIME类型:
 		每当浏览器请求一个页面时，web服务器会在发送实际页面内容之前，先发送一些头信息。
